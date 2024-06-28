@@ -1,0 +1,28 @@
+C:\Users\abdul\Downloads\start\Abdulrahman-7276\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.exe
+C:\Users\abdul\Downloads\start\Abdulrahman-7276\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.deps.json
+C:\Users\abdul\Downloads\start\Abdulrahman-7276\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.runtimeconfig.json
+C:\Users\abdul\Downloads\start\Abdulrahman-7276\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.dll
+C:\Users\abdul\Downloads\start\Abdulrahman-7276\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.pdb
+C:\Users\abdul\Downloads\start\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\Downloads\start\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.AssemblyInfoInputs.cache
+C:\Users\abdul\Downloads\start\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.AssemblyInfo.cs
+C:\Users\abdul\Downloads\start\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Downloads\start\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.dll
+C:\Users\abdul\Downloads\start\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\refint\ParseNumbers.dll
+C:\Users\abdul\Downloads\start\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.pdb
+C:\Users\abdul\Downloads\start\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.genruntimeconfig.cache
+C:\Users\abdul\Downloads\start\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\ref\ParseNumbers.dll
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.exe
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.deps.json
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.runtimeconfig.json
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.dll
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.pdb
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.AssemblyInfoInputs.cache
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.AssemblyInfo.cs
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.dll
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\refint\ParseNumbers.dll
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.pdb
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.genruntimeconfig.cache
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\NumbersDates\ParseNumbers\obj\Debug\net6.0\ref\ParseNumbers.dll

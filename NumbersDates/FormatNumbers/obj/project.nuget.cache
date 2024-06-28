@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rn1brskWUhuFgGIdlK0Bykdy9cdQ9Fa+exv1qHlfgMIoM83z/tiWPqoaUK8VzvvN6WN4L4syz/gs7PluNHQZoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdul\\Documents\\300 level 2nd semester items\\Abdulrahman-7276\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

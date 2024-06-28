@@ -1,0 +1,14 @@
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\Regex\Replacing\bin\Debug\net6.0\Replacing.exe
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\Regex\Replacing\bin\Debug\net6.0\Replacing.deps.json
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\Regex\Replacing\bin\Debug\net6.0\Replacing.runtimeconfig.json
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\Regex\Replacing\bin\Debug\net6.0\Replacing.dll
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\Regex\Replacing\bin\Debug\net6.0\Replacing.pdb
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\Regex\Replacing\obj\Debug\net6.0\Replacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfoInputs.cache
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfo.cs
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\Regex\Replacing\obj\Debug\net6.0\Replacing.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\Regex\Replacing\obj\Debug\net6.0\Replacing.dll
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\Regex\Replacing\obj\Debug\net6.0\refint\Replacing.dll
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\Regex\Replacing\obj\Debug\net6.0\Replacing.pdb
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\Regex\Replacing\obj\Debug\net6.0\Replacing.genruntimeconfig.cache
+C:\Users\abdul\Documents\300 level 2nd semester items\Abdulrahman-7276\Regex\Replacing\obj\Debug\net6.0\ref\Replacing.dll
